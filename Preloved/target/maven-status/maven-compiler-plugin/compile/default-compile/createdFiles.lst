@@ -1,0 +1,9 @@
+model\Clothing.class
+model\Reportable.class
+com\mycompany\preloved\Preloved.class
+model\Accessory.class
+model\Product.class
+model\AbstractItem.class
+model\Invoice.class
+service\CRUD.class
+main\Main.class
